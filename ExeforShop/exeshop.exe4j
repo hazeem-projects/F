@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="8.0" transformSequenceNumber="3">
+  <directoryPresets config="C:/Users/Thilini/Downloads" />
+  <application name="M.S.Stores" distributionSourceDir="C:/Users/Hazeem/Desktop/software_project/dist" />
+  <executable name="M.S.Stores" iconFile="C:/Users/Thilini/Downloads/2981297.png" redirectStdout="true" failOnStderrOutput="false" executableMode="gui" singleInstance="true" dpiAware="false">
+    <versionInfo include="true" fileVersion="1.0.0" fileDescription="M.S.Stores" legalCopyright="M.S.Stores" internalName="M.S.Stores" companyName="M.S.Stores" productVersion="1.0.0" />
+  </executable>
+  <java mainClass="Login" minVersion="1.8.0" allowBetaVM="true">
+    <classPath>
+      <archive location="C:/Users/Hazeem/Desktop/software_project/dist/software_project.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
