@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "675206089871",
+    "project_id": "dressmall-76ca9",
+    "storage_bucket": "dressmall-76ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675206089871:android:944541a8c7c6a76449b4fa",
+        "android_client_info": {
+          "package_name": "com.awh.dressmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675206089871-aqf6fil3dsk8rr650d4cbp6jqjlinm8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awh.dressmall",
+            "certificate_hash": "8b4766ebd584691ca57e7bd393a990dec205e2e4"
+          }
+        },
+        {
+          "client_id": "675206089871-ldsn88gdgu8gplioc2udluue6vfgm969.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUI8Q6Zxb9JHJWokX9NQ0S6gsLgaCBe8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675206089871-ldsn88gdgu8gplioc2udluue6vfgm969.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

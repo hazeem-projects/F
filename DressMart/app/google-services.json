@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201350706930",
+    "project_id": "finalandroidviva",
+    "storage_bucket": "finalandroidviva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201350706930:android:b906b9dc3591769482426b",
+        "android_client_info": {
+          "package_name": "com.awh.dressmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201350706930-r8mlj33ft0ljckok6eb518g7me0djisl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awh.dressmart",
+            "certificate_hash": "8b4766ebd584691ca57e7bd393a990dec205e2e4"
+          }
+        },
+        {
+          "client_id": "201350706930-lg1qg3khvh8vt44daob4kevspam31k7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBIev5lbep1YXlhRQnoGNYaE31TZMfmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201350706930-lg1qg3khvh8vt44daob4kevspam31k7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
