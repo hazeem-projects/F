@@ -1,0 +1,7 @@
+F:\dotnet projects\HazeemConsoleApp2\HazeemConsoleApp2\bin\Debug\HazeemConsoleApp2.exe.config
+F:\dotnet projects\HazeemConsoleApp2\HazeemConsoleApp2\bin\Debug\HazeemConsoleApp2.exe
+F:\dotnet projects\HazeemConsoleApp2\HazeemConsoleApp2\bin\Debug\HazeemConsoleApp2.pdb
+F:\dotnet projects\HazeemConsoleApp2\HazeemConsoleApp2\obj\Debug\HazeemConsoleApp2.csproj.AssemblyReference.cache
+F:\dotnet projects\HazeemConsoleApp2\HazeemConsoleApp2\obj\Debug\HazeemConsoleApp2.csproj.CoreCompileInputs.cache
+F:\dotnet projects\HazeemConsoleApp2\HazeemConsoleApp2\obj\Debug\HazeemConsoleApp2.exe
+F:\dotnet projects\HazeemConsoleApp2\HazeemConsoleApp2\obj\Debug\HazeemConsoleApp2.pdb

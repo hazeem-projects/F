@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IaF7YMfcHy8/H6ZoIvtJdpwcOZWy0gzflOu0WebMbQRX90ZdEuS8TFKIdK4akyj5YyZUk1r4vhGWEvW7C695NA==",
+  "success": true,
+  "projectFilePath": "F:\\dotnet projects\\MyFirstdotNetApp\\MyFirstdotNetApp\\MyFirstdotNetApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

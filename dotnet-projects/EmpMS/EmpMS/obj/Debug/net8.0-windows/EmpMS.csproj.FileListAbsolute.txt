@@ -1,0 +1,6 @@
+F:\dotnet projects\EmpMS\EmpMS\obj\Debug\net8.0-windows\EmpMS.Login.resources
+F:\dotnet projects\EmpMS\EmpMS\obj\Debug\net8.0-windows\EmpMS.csproj.GenerateResource.cache
+F:\dotnet projects\EmpMS\EmpMS\obj\Debug\net8.0-windows\EmpMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet projects\EmpMS\EmpMS\obj\Debug\net8.0-windows\EmpMS.AssemblyInfoInputs.cache
+F:\dotnet projects\EmpMS\EmpMS\obj\Debug\net8.0-windows\EmpMS.AssemblyInfo.cs
+F:\dotnet projects\EmpMS\EmpMS\obj\Debug\net8.0-windows\EmpMS.csproj.CoreCompileInputs.cache

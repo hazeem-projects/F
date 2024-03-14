@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uuykdlbo5xmC7Pxk58I7Xv0hPuSsLyHRWi8570+GRUrIzlFVwOoZXoyvYv+4LiYlsowRR+URtFSYWsPtdouxQ==",
+  "success": true,
+  "projectFilePath": "F:\\dotnet projects\\ControllersExample\\ControllersExample\\ControllersExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Thilini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
